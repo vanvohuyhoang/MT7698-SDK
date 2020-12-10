@@ -1,0 +1,6 @@
+.vscode/
+*/Build/*
+prebuild/
+tools/
+out/
+doc/
